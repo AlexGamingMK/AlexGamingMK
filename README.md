@@ -1,4 +1,4 @@
-<h2 align="left">Salut 👋 ! Je m'appelle Alexandre et je suis un étudiant en BTS SIO 2ème année.</h2>
+<h2 align="left">Hello 👋! My name is Alexandre and I am a 2nd year BTS SIO student.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWc1ZnNpc3dtOWE5OWhraGZiMXRncmhva3h6ZGRhdmlwa3lmd2wxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif"  />
+<h2 align="left">My tech stack includes</h2>
 
 ###
 
@@ -69,7 +69,15 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<h2 align="left">My socials Media</h2>
 
 ###
 
@@ -87,8 +95,26 @@
 
 ###
 
+<h2 align="left">Github Trophies</h2>
+
+###
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AlexGamingMK/count.svg?"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AlexGamingMK&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h2 align="left">Visitor counts</h2>
+
+###
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/c9afd930597513c57907fa76e62de62ce5419cbef5acebc79831fe29fd290562/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e5763315a6e4e70633364744f5745354f57687261475a694d58526e636d6876613368365a475268646d6c7761336c6d643277784d695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f717545734d4f727233686d51382f67697068792e676966"  />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexGamingMK.AlexGamingMK&"  />
 </div>
 
 ###
